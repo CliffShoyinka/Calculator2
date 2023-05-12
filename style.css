@@ -1,0 +1,35 @@
+
+#main {
+    width: 800px;
+    height: 620px;
+    background-color: black;
+}
+
+input {
+    width: 18%;
+    height: 80px;
+    font-size: 30px;
+    margin: 20px;
+    background: linear-gradient(180deg, #FFB23F 0%, #ED8E00 100%);
+    border-radius: 43px;
+}
+
+input:hover {
+    width: 18%;
+    height: 80px;
+    font-size: 30px;
+    margin: 20px;
+    background: linear-gradient(180deg, #FFB23F 0%, #faf0e0 100%);
+    border-radius: 43px;
+}
+
+#eee {
+    padding-left:2%;
+    width: 86%;
+    height: 80px;
+    font-size: 30px;
+    margin: 20px;
+    background: linear-gradient(180deg, #ffffff 0%, #ffffff 100%);
+    border-radius: 5px;
+    line-height: 50px;
+}
